@@ -1,0 +1,14 @@
+{
+  "name": "com.kevinfromhp.addressablematerials",
+  "version": "0.0.1",
+  "displayName": "Addressable Materials",
+  "unity": "2018.4",
+  "release": "16f1",
+  "author": {
+    "name": "ThunderKit",
+    "url": "https://github.com/KevinfromHP/AddressableImports"
+  },
+  "dependencies": {
+    "com.unity.addressables": "1.18.15"
+  }
+}
